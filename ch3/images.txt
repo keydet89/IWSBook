@@ -1,0 +1,8 @@
+CFReDS Hacking Case Image
+https://www.cfreds.nist.gov/Hacking_Case.html
+
+Data Theft
+http://www.hecfblog.com/2014/03/daily-blog-277-sample-forensic-images.html
+
+Joe's PC
+https://thinkdfir.com/Win10-JoePC-Image/

@@ -1,0 +1,5 @@
+Finding Malware - WinXP
+http://www.forensickb.com/2008/01/forensic-practical.html
+
+Finding Malware - Win7
+http://www.hecfblog.com/2014/03/daily-blog-277-sample-forensic-images.html
