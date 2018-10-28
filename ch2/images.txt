@@ -1,5 +1,8 @@
 Finding Malware - WinXP
 http://www.forensickb.com/2008/01/forensic-practical.html
 
+Image (WinXP2.e01)
+https://web.archive.org/web/20080521002024/http://www.lancemueller.com/blog/evidence/WinXP2.E01
+
 Finding Malware - Win7
 http://www.hecfblog.com/2014/03/daily-blog-277-sample-forensic-images.html
